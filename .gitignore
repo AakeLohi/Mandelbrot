@@ -1,0 +1,23 @@
+# Ignore everything by default
+*
+# Allow directories
+!*/
+# Explicitly allow code and config files
+!*.py
+!*.cs
+!*.js
+!*.ts
+!*.html
+!*.css
+!*.cpp
+!*.h
+!*.java
+!*.md
+!*.json
+!*.txt
+!*.yml
+!*.yaml
+!*.xml
+!*.sql
+!*.asmdef
+!.gitignore
